@@ -1,5 +1,6 @@
 import React from "react";
 import "../style.css";
+import searchIcon from "../../Assets/search.png"
 
 
 
@@ -12,7 +13,7 @@ function Search(props) {
               <input type="text" placeholder="Search" onChange={props.userInput} />
             </div>
             <div className="searchIcon" onClick={props.onClicksearchIcon}>
-              <img src="../Assets/search.png" alt="Search" />
+              <img src={searchIcon} alt="Search" />
             </div>
           </div>
         
