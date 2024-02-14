@@ -1,6 +1,6 @@
 import React from "react";
 import "../style.css";
-import searchIcon from "../../Assets/search.png"
+import searchIcon from "../assets/search.png"
 
 
 
