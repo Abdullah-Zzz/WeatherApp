@@ -1,12 +1,12 @@
 import React from "react"
 import "../style.css"
-import clearIcon from "../../Assets/clear.png";
-import cloudIcon from "../../Assets/cloud.png";
-import drizzleIcon from "../../Assets/drizzle.png";
-import rainIcon from "../../Assets/rain.png";
-import snowIcon from "../../Assets/snow.png";
-import humidity from "../../Assets/humidity.png"
-import wind from "../../Assets/wind.png"
+import clearIcon from "../assets/clear.png";
+import cloudIcon from "../assets/cloud.png";
+import drizzleIcon from "../assets/drizzle.png";
+import rainIcon from "../assets/rain.png";
+import snowIcon from "../assets/snow.png";
+import humidity from "../assets/humidity.png"
+import wind from "../assets/wind.png"
 
 
 export default function Body(props) {
