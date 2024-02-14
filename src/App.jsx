@@ -21,7 +21,7 @@ function App() {
 
   return (
     <>
-      <div className="whole">
+      <div className="root">
         <div className="container">
           <SearchBar 
             userInput={settingInput}
