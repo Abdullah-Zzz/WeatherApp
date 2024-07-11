@@ -1,3 +1,3 @@
 Weather App 
 
-live demo : https://abdullah-zzz.github.io/WeatherApp/
+live : https://abdullah-zzz.github.io/WeatherApp/
