@@ -1,3 +1,3 @@
-Weather App 
+<h1>Weather App<\h1> 
 
-live : https://abdullah-zzz.github.io/WeatherApp/
+<b>live:<\b> https://abdullah-zzz.github.io/WeatherApp/
